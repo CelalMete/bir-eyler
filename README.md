@@ -1,0 +1,2 @@
+# bir-eyler
+birşeyler yapcam
